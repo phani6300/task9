@@ -1,0 +1,7 @@
+com\example\tasks\TasksApplication.class
+com\example\tasks\Task.class
+com\example\tasks\TaskService.class
+com\example\tasks\NotFoundException.class
+com\example\tasks\TaskController.class
+com\example\tasks\GlobalExceptionHandler.class
+com\example\tasks\InMemoryTaskService.class
